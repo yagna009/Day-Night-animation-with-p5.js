@@ -20,6 +20,8 @@ Using mouse drag controls, users can experience a smooth transition between day 
 
 ---
 
+![Day-Night Cycle Preview](images/Night.png)
+
 ## ✨ Features
 
 ✅ Interactive mouse controls

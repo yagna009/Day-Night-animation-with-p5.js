@@ -22,9 +22,9 @@ Using mouse drag controls, users can experience a smooth transition between day 
 ## Preview
 
 <p align="center">
-  <img src="Night.png" width="350" alt="Day-Night Cycle Preview">
-   <img src="Sun is setting and moon rise.png" width="350" alt="Day-Night Cycle Preview">
-   <img src="Sun rise day time.png" width="350" alt="Day-Night Cycle Preview">
+  <img src="Night.png" width="250" alt="Day-Night Cycle Preview">
+   <img src="Sun is setting and moon rise.png" width="250" alt="Day-Night Cycle Preview">
+   <img src="Sun rise day time.png" width="250" alt="Day-Night Cycle Preview">
 </p>
 
 ## ✨ Features

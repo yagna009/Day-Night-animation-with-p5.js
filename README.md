@@ -19,11 +19,13 @@ This interactive **p5.js** project creates a beautiful landscape featuring:
 Using mouse drag controls, users can experience a smooth transition between day and night.
 
 ---
+## Preview
+
 <p align="center">
   <img src="Night.png" width="350" alt="Day-Night Cycle Preview">
+   <img src="Sun is setting and moon rise.png" width="350" alt="Day-Night Cycle Preview">
+   <img src="Sun rise day time.png" width="350" alt="Day-Night Cycle Preview">
 </p>
-
-![Day-Night Cycle Preview](Night.png)
 
 ## ✨ Features
 
